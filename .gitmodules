@@ -4,3 +4,6 @@
 [submodule "optimism/lib/openzeppelin-contracts-upgradeable"]
 	path = optimism/lib/openzeppelin-contracts-upgradeable
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "optimism/lib/conditional-tokens-contracts"]
+	path = optimism/lib/conditional-tokens-contracts
+	url = https://github.com/gnosis/conditional-tokens-contracts
