@@ -10,3 +10,6 @@
 [submodule "optimism/lib/protocol"]
 	path = optimism/lib/protocol
 	url = https://github.com/UMAprotocol/protocol
+[submodule "optimism/lib/solidity-examples"]
+	path = optimism/lib/solidity-examples
+	url = https://github.com/LayerZero-Labs/solidity-examples
