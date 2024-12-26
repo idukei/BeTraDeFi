@@ -13,3 +13,6 @@
 [submodule "optimism/lib/solidity-examples"]
 	path = optimism/lib/solidity-examples
 	url = https://github.com/LayerZero-Labs/solidity-examples
+[submodule "optimism/lib/solmate"]
+	path = optimism/lib/solmate
+	url = https://github.com/transmissions11/solmate
