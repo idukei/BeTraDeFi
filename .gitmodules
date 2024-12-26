@@ -7,3 +7,6 @@
 [submodule "optimism/lib/conditional-tokens-contracts"]
 	path = optimism/lib/conditional-tokens-contracts
 	url = https://github.com/gnosis/conditional-tokens-contracts
+[submodule "optimism/lib/protocol"]
+	path = optimism/lib/protocol
+	url = https://github.com/UMAprotocol/protocol
