@@ -1,0 +1,13 @@
+Copy# Foundry
+optimism/cache/
+optimism/out/
+optimism/.env
+
+# Solana
+solana/target/
+solana/.anchor
+solana/test-ledger/
+
+# Node
+node_modules/
+.env
