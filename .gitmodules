@@ -1,0 +1,3 @@
+[submodule "optimism/lib/openzeppelin-contracts"]
+	path = optimism/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
